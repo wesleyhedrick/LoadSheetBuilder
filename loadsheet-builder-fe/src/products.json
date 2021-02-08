@@ -1,0 +1,69 @@
+{
+    "main": 
+            {
+                "LC5":"C",
+                "LC2":"2.5",
+                "MA5":"A",
+                "LC55":"LC55",
+                "MA55":"MA55",
+                "LC15":"LC15"
+            },
+
+    "special": 
+            {
+                "ALGAE 5":"AG5",
+                "40 ALUM":"AS50",
+                "48 CAL FLAKE":"CC50",
+                "CAL FLAKE":"CCF50",
+                "CHINA PELLET":"CCPI50",
+                "PELADOW":"CCPP50",
+                "CAL HYPO 100#GRAN":"CH100",
+                "24X1 CAL HYPO":"CH24",
+                "CAL HYPO 25#GRAN":"CH25",
+                "CAL HYPO 50#GRAN":"CH50",
+                "CAL HYPO 50 3\"TABS":"ch50-3",
+                "CYA GRAN":"CYA50",
+                "CYA POWDER":"CYA50P",
+                "HTH 10LB BOX":"DEB10HTH",
+                "DE 12LB BOX":"DEB12",
+                "DE 24LB BOX":"DEB24",
+                "HTH 24LB BOX":"deb24hth",
+                "DE 10LB BAG":"DEE10",
+                "DE 25LB BAG":"DEE25",
+                "DE 50LB BAG":"DEE50",
+                "PERLITE AQUA LABLE":"AP12",
+                "PERLITE":"DEPL12",
+                "PEROXIDE":"hp4",
+                "LC 15":"LC15",
+                "48 LC2":"lc2",
+                "CASE HYPO":"LC4",
+                "LC4NSF":"LC4NSF",
+                "C":"LC5",
+                "LC 55":"LC55",
+                "NSF C":"LC5NSF",
+                "MA 15":"ma15",
+                "CASE ACID":"MA4",
+                "A":"MA5",
+                "NED MAG FLAKE":"MCF50",
+                "NED MAG PELLET":"MCP50",
+                "DEAD SEA MAG PELLET":"MCPD50",
+                "PH- 6LB":"PSS6-AZ",
+                "ROCK SALT":"RS50",
+                "SODA ASH LIGHT":"sa50",
+                "SODA ASH DENSE":"SAD50",
+                "BICARB":"sc50",
+                "POOL SALT":"sps40",
+                "BISULFATE":"SS50",
+                "TRICHLOR 3\" TAB":"tc25-3",
+                "THIO":"TH50",
+                "TSP":"TSP50",
+                "ACID MAGIC":"us4",
+                "WINTER BLAST":"wb50",
+                "COND 8LB":"PCYA8-OM",
+                "PH+ 10LB":"PSA10-OM"
+            }
+}
+
+
+
+        
