@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecada225.chunk.css",
+    "main.js": "/static/js/main.ea544c8f.chunk.js",
+    "main.js.map": "/static/js/main.ea544c8f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4f142bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4f142bc.js.map",
+    "static/js/2.014b4b2d.chunk.js": "/static/js/2.014b4b2d.chunk.js",
+    "static/js/2.014b4b2d.chunk.js.map": "/static/js/2.014b4b2d.chunk.js.map",
+    "static/js/3.9342df19.chunk.js": "/static/js/3.9342df19.chunk.js",
+    "static/js/3.9342df19.chunk.js.map": "/static/js/3.9342df19.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ecada225.chunk.css.map": "/static/css/main.ecada225.chunk.css.map",
+    "static/js/2.014b4b2d.chunk.js.LICENSE.txt": "/static/js/2.014b4b2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4f142bc.js",
+    "static/js/2.014b4b2d.chunk.js",
+    "static/css/main.ecada225.chunk.css",
+    "static/js/main.ea544c8f.chunk.js"
+  ]
+}
